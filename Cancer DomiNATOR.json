@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Cancer DomiNATOR.data.unityweb",
+"asmCodeUrl": "Cancer DomiNATOR.asm.code.unityweb",
+"asmMemoryUrl": "Cancer DomiNATOR.asm.memory.unityweb",
+"asmFrameworkUrl": "Cancer DomiNATOR.asm.framework.unityweb",
+"backgroundUrl": "Cancer DomiNATOR.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
